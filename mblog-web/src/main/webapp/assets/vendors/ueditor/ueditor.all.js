@@ -22186,7 +22186,7 @@ UE.plugin.register('simpleupload', function (){
  *     因为 ueditor 需要引入 serverUrl 一堆东西，所以这里 将 simpleupload 做了一个简单定制
  * </p>
  *
- * @author langhsu
+ * @author cdq
  * @date 2015-08-27
  */
 UE.plugin.register('fastupload', function (){

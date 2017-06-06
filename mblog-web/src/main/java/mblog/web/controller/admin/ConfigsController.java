@@ -30,7 +30,7 @@ import java.util.*;
 /**
  * 系统配置
  *
- * @author langhsu
+ * @author cdq
  *
  */
 @Controller

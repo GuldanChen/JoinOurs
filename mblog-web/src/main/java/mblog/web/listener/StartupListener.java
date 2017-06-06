@@ -34,7 +34,7 @@ import mtons.modules.utils.GMagickUtils;
 import mtons.modules.utils.PropertiesLoader;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Component

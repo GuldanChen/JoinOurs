@@ -21,7 +21,7 @@ import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
  * 
  * 基础拦截器 - 向 request 中添加一些基础变量
  * 
- * @author langhsu
+ * @author cdq
  * 
  */
 public class BaseInterceptor extends HandlerInterceptorAdapter {

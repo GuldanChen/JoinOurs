@@ -8,7 +8,7 @@ import org.apache.log4j.Logger;
 import org.springframework.util.StopWatch;
 
 /**
- * @author langhsu on 2015/7/10.
+ * @author cdq2016/7/10.
  */
 public class RequestCostFilter implements Filter {
     private Logger log = Logger.getLogger(RequestCostFilter.class);

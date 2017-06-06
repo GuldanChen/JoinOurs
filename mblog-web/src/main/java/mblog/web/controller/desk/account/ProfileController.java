@@ -24,7 +24,7 @@ import mtons.modules.pojos.Data;
 import mtons.modules.pojos.UserProfile;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Controller

@@ -18,7 +18,7 @@ import mblog.base.data.Video;
 
 /**
  * 视频信息抓取
- * @author langhsu
+ * @author cdq
  *
  */
 @Controller

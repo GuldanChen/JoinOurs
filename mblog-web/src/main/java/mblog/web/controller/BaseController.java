@@ -36,7 +36,7 @@ import mtons.modules.security.MD5;
 /**
  * Controller 基类
  * 
- * @author langhsu
+ * @author cdq
  * 
  */
 public class BaseController {

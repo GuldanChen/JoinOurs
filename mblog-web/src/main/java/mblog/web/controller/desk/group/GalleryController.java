@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
  * 相片走廊
- * @author langhsu
+ * @author cdq
  *
  */
 @Controller

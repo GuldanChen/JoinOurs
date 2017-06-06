@@ -27,7 +27,7 @@ import mtons.modules.pojos.UserProfile;
 
 /**
  * 文章操作
- * @author langhsu
+ * @author cdq
  *
  */
 @Controller

@@ -23,7 +23,7 @@ import mblog.web.controller.BaseController;
 import mblog.web.controller.desk.Views;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Controller

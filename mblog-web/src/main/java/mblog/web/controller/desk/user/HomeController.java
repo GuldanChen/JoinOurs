@@ -33,7 +33,7 @@ import mtons.modules.pojos.UserProfile;
 
 /**
  * 用户主页
- * @author langhsu
+ * @author cdq
  *
  */
 @Controller

@@ -19,7 +19,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author langhsu on 2015/8/14.
+ * @author cdq2016/8/14.
  */
 @Controller
 @RequestMapping("/forgot")

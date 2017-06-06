@@ -30,7 +30,7 @@ import com.google.gson.Gson;
 
 /**
  * 异常处理
- * @author langhsu
+ * @author cdq
  *
  */
 @Component

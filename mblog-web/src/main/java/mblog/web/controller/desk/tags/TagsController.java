@@ -21,7 +21,7 @@ import mtons.modules.pojos.Paging;
 
 /**
  * 发现
- * @author langhsu
+ * @author cdq
  *
  */
 @Controller

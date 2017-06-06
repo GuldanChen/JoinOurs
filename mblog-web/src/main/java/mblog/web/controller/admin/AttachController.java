@@ -10,7 +10,7 @@ import mblog.web.controller.BaseController;
 import mtons.modules.pojos.Data;
 
 /**
- * @author langhsu on 2015/9/5.
+ * @author cdq2016/9/5.
  */
 @Controller("mng_attacg_ctl")
 @RequestMapping("/admin/posts/album")

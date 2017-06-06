@@ -17,7 +17,7 @@ import mblog.web.controller.BaseController;
 import mtons.modules.pojos.Paging;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Controller

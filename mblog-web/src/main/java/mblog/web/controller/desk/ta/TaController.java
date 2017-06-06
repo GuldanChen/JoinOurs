@@ -25,7 +25,7 @@ import mtons.modules.pojos.Paging;
 
 /**
  * 访问他人主页
- * @author langhsu
+ * @author cdq
  *
  */
 @Controller

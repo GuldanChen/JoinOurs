@@ -22,7 +22,7 @@ import mblog.web.controller.BaseController;
 import mtons.modules.pojos.Data;
 
 /**
- * @author langhsu on 2015/8/14.
+ * @author cdq2016/8/14.
  */
 @Controller
 @RequestMapping("/email")

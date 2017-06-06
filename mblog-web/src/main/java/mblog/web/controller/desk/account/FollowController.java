@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * @author langhsu on 2015/8/18.
+ * @author cdq2016/8/18.
  */
 @Controller
 @RequestMapping("/account")

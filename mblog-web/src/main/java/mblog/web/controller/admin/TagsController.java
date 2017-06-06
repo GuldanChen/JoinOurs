@@ -22,7 +22,7 @@ import mtons.modules.pojos.Data;
 import mtons.modules.pojos.Paging;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Controller("mng_tag_ctl")

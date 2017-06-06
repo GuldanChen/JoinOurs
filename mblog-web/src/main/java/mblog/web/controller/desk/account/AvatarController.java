@@ -31,7 +31,7 @@ import mtons.modules.pojos.Data;
 import mtons.modules.utils.GMagickUtils;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Controller

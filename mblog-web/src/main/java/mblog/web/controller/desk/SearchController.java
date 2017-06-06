@@ -23,7 +23,7 @@ import mblog.web.controller.BaseController;
 
 /**
  * 文章搜索
- * @author langhsu
+ * @author cdq
  *
  */
 @Controller

@@ -26,7 +26,7 @@ import mtons.modules.pojos.Paging;
 import mtons.modules.pojos.UserProfile;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Controller

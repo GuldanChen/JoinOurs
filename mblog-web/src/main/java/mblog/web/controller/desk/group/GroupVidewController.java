@@ -27,7 +27,7 @@ import mblog.web.controller.desk.Views;
 /**
  * 文章浏览
  * 
- * @author langhsu
+ * @author cdq
  * 
  */
 @Controller

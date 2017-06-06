@@ -28,7 +28,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * post 扩展实现 - 发布视频
- * @author langhsu
+ * @author cdq
  *
  */
 @Controller

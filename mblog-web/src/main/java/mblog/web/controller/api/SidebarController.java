@@ -37,7 +37,7 @@ import mtons.modules.pojos.UserProfile;
 /**
  * 侧边栏数据加载
  * 
- * @author langhsu
+ * @author cdq
  *
  */
 @Controller
