@@ -3,7 +3,7 @@ package test;
 import mtons.modules.utils.PreviewTextUtils;
 
 /**
- * @author langhsu on 2015/8/29.
+ * @author cdq2016/8/29.
  */
 public class PreviewTextUtilsTest {
 

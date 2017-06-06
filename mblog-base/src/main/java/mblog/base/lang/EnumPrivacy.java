@@ -1,7 +1,7 @@
 package mblog.base.lang;
 
 /**
- * @author langhsu on 2015/8/19.
+ * @author cdq2016/8/19.
  */
 public enum EnumPrivacy {
     ALL(-1, "忽略"),

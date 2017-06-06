@@ -22,7 +22,7 @@ import org.apache.commons.httpclient.params.HttpMethodParams;
 
 /**
  * 
- * @author langhsu
+ * @author cdq
  *
  */
 public class HttpUtils {

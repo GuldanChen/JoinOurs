@@ -10,7 +10,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Service

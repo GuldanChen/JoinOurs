@@ -23,7 +23,7 @@ import mblog.base.upload.FileRepoFactory;
 import mtons.modules.exception.MtonsException;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public abstract class AbstractFileRepo implements FileRepo {

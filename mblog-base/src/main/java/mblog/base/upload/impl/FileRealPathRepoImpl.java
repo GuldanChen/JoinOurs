@@ -30,7 +30,7 @@ import mtons.modules.utils.FileNameUtils;
 import mtons.modules.utils.GMagickUtils;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Service("fileRealPathRepo")

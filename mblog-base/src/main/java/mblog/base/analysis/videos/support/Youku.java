@@ -22,7 +22,7 @@ import mtons.modules.exception.MtonsException;
 /**
  * 优酷视频信息抓取
  * 
- * @author langhsu
+ * @author cdq
  *
  */
 public class Youku implements VideoStrategy {

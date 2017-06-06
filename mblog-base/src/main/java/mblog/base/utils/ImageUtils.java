@@ -18,7 +18,7 @@ import java.net.URL;
 import java.net.URLConnection;
 
 /**
- * @author langhsu on 2015/9/4.
+ * @author cdq2016/9/4.
  */
 public class ImageUtils extends GMagickUtils {
     private static Logger log = Logger.getLogger(ImageUtils.class);

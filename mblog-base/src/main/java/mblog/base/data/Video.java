@@ -10,7 +10,7 @@
 package mblog.base.data;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public class Video {

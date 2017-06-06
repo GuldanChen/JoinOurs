@@ -5,7 +5,7 @@ package mblog.base.lang;
 
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public interface Consts {

@@ -27,7 +27,7 @@ import mblog.base.utils.ImageUtils;
 import mtons.modules.utils.FileNameUtils;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Service("fileRepo")

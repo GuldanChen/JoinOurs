@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.ui.velocity.SpringResourceLoader;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Component

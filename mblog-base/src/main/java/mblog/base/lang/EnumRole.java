@@ -4,7 +4,7 @@
 package mblog.base.lang;
 
 /**
- * @author langhsu
+ * @author cdq
  * 
  */
 public enum EnumRole {

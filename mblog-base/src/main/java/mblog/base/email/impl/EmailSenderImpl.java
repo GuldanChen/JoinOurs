@@ -30,7 +30,7 @@ import mblog.base.lang.SiteConfig;
 import mtons.modules.exception.MtonsException;
 
 /**
- * @author langhsu on 2015/8/14.
+ * @author cdq2016/8/14.
  */
 @Service
 @Lazy(false)

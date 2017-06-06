@@ -25,7 +25,7 @@ import mblog.base.utils.URLUtils;
 /**
  * 视频分析
  * 
- * @author langhsu
+ * @author cdq
  *
  */
 @Component

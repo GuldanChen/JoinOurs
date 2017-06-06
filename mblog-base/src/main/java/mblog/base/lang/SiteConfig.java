@@ -1,7 +1,7 @@
 package mblog.base.lang;
 
 /**
- * @author langhsu on 2015/9/5.
+ * @author cdq2016/9/5.
  */
 public interface SiteConfig {
     /**

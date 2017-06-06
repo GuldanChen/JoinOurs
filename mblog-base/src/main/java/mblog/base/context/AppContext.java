@@ -20,7 +20,7 @@ import org.springframework.web.context.ServletContextAware;
 import javax.servlet.ServletContext;
 
 /**
- * @author langhsu
+ * @author cdq
  * 
  */
 @Component

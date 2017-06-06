@@ -3,7 +3,7 @@ package mblog.base.utils;
 import java.util.Date;
 
 /**
- * @author langhsu on 2015/7/30.
+ * @author cdq2016/7/30.
  */
 public class RelativeDateFormat {
     private static final long ONE_MINUTE = 60000L;

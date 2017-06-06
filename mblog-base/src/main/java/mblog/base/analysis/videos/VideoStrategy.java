@@ -12,7 +12,7 @@ package mblog.base.analysis.videos;
 import mblog.base.data.Video;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public interface VideoStrategy {
