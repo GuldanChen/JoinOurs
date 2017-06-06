@@ -19,7 +19,7 @@ import mtons.modules.pojos.Paging;
 
 /**
  * 文章管理
- * @author langhsu
+ * @author cdq
  *
  */
 public interface PostService {

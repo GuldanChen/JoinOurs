@@ -18,7 +18,7 @@ import mblog.core.persist.entity.CommentPO;
 import mtons.modules.pojos.Paging;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public interface CommentService {

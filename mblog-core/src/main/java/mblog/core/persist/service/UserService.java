@@ -19,7 +19,7 @@ import mblog.core.data.User;
 import mtons.modules.pojos.Paging;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public interface UserService {

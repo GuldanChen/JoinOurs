@@ -23,7 +23,7 @@ import mblog.core.persist.entity.MenuPO;
 import mblog.core.persist.service.MenuService;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Service

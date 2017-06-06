@@ -16,7 +16,7 @@ import mblog.velocity.handler.RenderHandler;
 /**
  * 资源路径处理
  * - 当 ${resource.domain} = true 时，自己在资源地址前面追加host
- * @author langhsu
+ * @author cdq
  *
  */
 public class ResourceDirective extends BaseDirective {

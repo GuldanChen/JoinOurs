@@ -11,7 +11,7 @@ package mblog.core.data;
 
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public class Menu {

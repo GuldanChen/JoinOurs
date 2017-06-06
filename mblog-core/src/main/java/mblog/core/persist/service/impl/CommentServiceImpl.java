@@ -33,7 +33,7 @@ import mblog.core.persist.utils.BeanMapUtils;
 import java.util.*;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Service

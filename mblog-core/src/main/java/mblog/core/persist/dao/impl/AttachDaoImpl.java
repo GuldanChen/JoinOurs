@@ -23,7 +23,7 @@ import mtons.modules.annotation.Repository;
 import mtons.modules.persist.impl.BaseRepositoryImpl;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Repository(entity = AttachPO.class)

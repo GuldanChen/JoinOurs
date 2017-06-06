@@ -15,7 +15,7 @@ import mblog.core.data.Tag;
 import mtons.modules.pojos.Paging;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public interface TagService {

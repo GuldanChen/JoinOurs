@@ -19,7 +19,7 @@ import mtons.modules.persist.BaseRepository;
 import mtons.modules.pojos.Paging;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public interface PostDao extends BaseRepository<PostPO> {

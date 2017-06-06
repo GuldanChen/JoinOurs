@@ -14,7 +14,7 @@ import java.util.List;
 import mtons.modules.pojos.UserProfile;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public class AccountProfile extends UserProfile {

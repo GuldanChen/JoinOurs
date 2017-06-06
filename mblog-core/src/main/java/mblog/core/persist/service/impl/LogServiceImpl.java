@@ -21,7 +21,7 @@ import mblog.core.persist.entity.LogPO;
 import mblog.core.persist.service.LogService;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Service

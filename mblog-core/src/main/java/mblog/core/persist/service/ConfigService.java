@@ -15,7 +15,7 @@ import java.util.Map;
 import mblog.core.data.Config;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public interface ConfigService {

@@ -18,7 +18,7 @@ import mblog.core.data.Attach;
 import mblog.core.persist.entity.AttachPO;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public interface AttachDao extends BaseRepository<AttachPO> {

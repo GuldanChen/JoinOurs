@@ -12,7 +12,7 @@ package mblog.core.persist.service;
 import mtons.modules.pojos.Paging;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public interface FollowService {

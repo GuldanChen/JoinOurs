@@ -19,7 +19,7 @@ import mblog.core.data.User;
 import mblog.core.persist.entity.UserPO;
 
 /**
- * @author langhsu
+ * @author cdq
  */
 public interface UserDao extends BaseRepository<UserPO> {
     UserPO getByUsername(String username);

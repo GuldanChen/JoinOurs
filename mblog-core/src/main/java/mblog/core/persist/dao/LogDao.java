@@ -16,7 +16,7 @@ import mblog.core.persist.entity.LogPO;
 import mtons.modules.persist.BaseRepository;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public interface LogDao extends BaseRepository<LogPO> {

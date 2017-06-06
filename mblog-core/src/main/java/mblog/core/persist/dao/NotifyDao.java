@@ -8,7 +8,7 @@ import java.util.List;
 import mblog.core.persist.entity.NotifyPO;
 
 /**
- * @author langhsu on 2015/8/31.
+ * @author cdq2016/8/31.
  */
 public interface NotifyDao extends BaseRepository<NotifyPO> {
     List<NotifyPO> findByOwnId(Paging paging, long ownId);

@@ -13,7 +13,7 @@ import mblog.core.data.Feeds;
 import mtons.modules.pojos.Paging;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public interface FeedsService {

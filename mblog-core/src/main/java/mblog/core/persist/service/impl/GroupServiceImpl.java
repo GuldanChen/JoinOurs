@@ -24,7 +24,7 @@ import mblog.core.persist.service.GroupService;
 import mblog.core.persist.utils.BeanMapUtils;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Service

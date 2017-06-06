@@ -12,7 +12,7 @@ package mblog.core.event;
 import org.springframework.context.ApplicationEvent;
 
 /**
- * @author langhsu on 2015/8/18.
+ * @author cdq2016/8/18.
  */
 public class FeedsEvent extends ApplicationEvent {
 	private static final long serialVersionUID = 3220416026013707101L;

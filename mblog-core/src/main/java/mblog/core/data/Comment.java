@@ -15,7 +15,7 @@ import java.util.Date;
 import org.springframework.format.annotation.DateTimeFormat;
 
 /**
- * @author langhsu
+ * @author cdq
  * 
  */
 public class Comment implements Serializable {

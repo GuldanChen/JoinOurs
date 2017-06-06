@@ -15,7 +15,7 @@ import mblog.core.persist.entity.MenuPO;
 import mtons.modules.persist.BaseRepository;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public interface MenuDao extends BaseRepository<MenuPO> {

@@ -18,7 +18,7 @@ import mblog.core.event.LogEvent;
 import mblog.core.persist.service.LogService;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Component

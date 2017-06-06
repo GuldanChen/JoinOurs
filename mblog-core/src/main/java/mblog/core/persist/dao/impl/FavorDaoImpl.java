@@ -12,7 +12,7 @@ import mtons.modules.persist.impl.BaseRepositoryImpl;
 import mtons.modules.pojos.Paging;
 
 /**
- * @author langhsu on 2015/8/31.
+ * @author cdq2016/8/31.
  */
 @Repository(entity = FavorPO.class)
 public class FavorDaoImpl extends BaseRepositoryImpl<FavorPO> implements FavorDao {

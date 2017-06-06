@@ -16,7 +16,7 @@ import mblog.core.data.Menu;
 /**
  * TODO: 暂时添加修改都在数据库操作
  * 
- * @author langhsu
+ * @author cdq
  *
  */
 public interface MenuService {

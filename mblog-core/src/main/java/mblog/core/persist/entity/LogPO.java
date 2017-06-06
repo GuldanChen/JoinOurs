@@ -24,7 +24,7 @@ import javax.persistence.TemporalType;
  * 
  * 事件日志
  * 
- * @author langhsu
+ * @author cdq
  *
  */
 @Entity

@@ -16,7 +16,7 @@ import java.util.List;
 import mblog.core.persist.entity.GroupPO;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public interface GroupDao extends BaseRepository<GroupPO> {

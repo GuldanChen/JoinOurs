@@ -18,7 +18,7 @@ import mtons.modules.lang.Const;
 import mtons.modules.persist.impl.BaseRepositoryImpl;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Repository(entity = GroupPO.class)

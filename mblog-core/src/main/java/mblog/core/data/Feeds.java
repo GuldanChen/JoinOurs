@@ -13,7 +13,7 @@ import java.util.Date;
 
 /**
  * 订阅
- * @author langhsu
+ * @author cdq
  *
  */
 public class Feeds {

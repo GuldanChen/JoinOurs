@@ -47,7 +47,7 @@ import mtons.modules.pojos.Paging;
 import mtons.modules.utils.PreviewTextUtils;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Service

@@ -11,7 +11,7 @@ package mblog.core.data;
 
 /**
  * 第三方开发授权登录
- * @author langhsu on 2015/8/12.
+ * @author cdq2016/8/12.
  */
 public class OpenOauth {
     private long id;

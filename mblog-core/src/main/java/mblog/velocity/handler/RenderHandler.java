@@ -18,7 +18,7 @@ import org.apache.velocity.runtime.parser.node.Node;
 import org.apache.velocity.tools.view.ViewToolContext;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public class RenderHandler extends BaseHandler {

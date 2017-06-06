@@ -16,7 +16,7 @@ import javax.persistence.*;
 /**
  * 第三方开发授权登录
  *
- * @author langhsu on 2015/8/12.
+ * @author cdq2016/8/12.
  */
 @Entity
 @Table(name = "mto_users_open_oauth")

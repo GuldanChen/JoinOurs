@@ -19,7 +19,7 @@ import java.util.Set;
 import mblog.core.persist.entity.CommentPO;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public interface CommentDao extends BaseRepository<CommentPO> {

@@ -13,7 +13,7 @@ import mblog.core.persist.entity.ConfigPO;
 import mtons.modules.persist.BaseRepository;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public interface ConfigDao extends BaseRepository<ConfigPO> {

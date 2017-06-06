@@ -4,7 +4,7 @@ import mblog.core.data.Notify;
 import mtons.modules.pojos.Paging;
 
 /**
- * @author langhsu on 2015/8/31.
+ * @author cdq2016/8/31.
  */
 public interface NotifyService {
 

@@ -6,7 +6,7 @@ package mblog.velocity.handler;
 import org.apache.commons.lang.StringUtils;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public class BaseHandler {

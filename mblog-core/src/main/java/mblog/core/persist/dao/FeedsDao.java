@@ -18,7 +18,7 @@ import mblog.core.data.Feeds;
 import mblog.core.persist.entity.FeedsPO;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public interface FeedsDao extends BaseRepository<FeedsPO> {

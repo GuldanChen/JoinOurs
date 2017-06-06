@@ -33,7 +33,7 @@ import mblog.core.persist.service.PostService;
 import mtons.modules.pojos.Paging;
 
 /**
- * @author langhsu
+ * @author cdq
  * 
  */
 @Service

@@ -13,7 +13,7 @@ package mblog.core.data;
 import java.io.Serializable;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public class Group implements Serializable {

@@ -13,7 +13,7 @@ import mblog.core.data.OpenOauth;
 import mblog.core.data.User;
 
 /**
- * @author langhsu on 2015/8/12.
+ * @author cdq2016/8/12.
  */
 public interface OpenOauthService {
     //通过 oauth_token 查询 user

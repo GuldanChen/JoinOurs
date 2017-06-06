@@ -19,7 +19,7 @@ import mblog.velocity.handler.RenderHandler;
 import mtons.modules.pojos.Paging;
 
 /**
- * @author langhsu
+ * @author cdq
  */
 public abstract class BaseDirective extends Directive {
 	public abstract void initBean();

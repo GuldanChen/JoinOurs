@@ -21,7 +21,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 import mblog.base.lang.Consts;
 
 /**
- * @author langhsu
+ * @author cdq
  * 
  */
 public class Post implements Serializable {

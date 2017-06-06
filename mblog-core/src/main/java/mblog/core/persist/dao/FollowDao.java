@@ -17,7 +17,7 @@ import java.util.List;
 import mblog.core.persist.entity.FollowPO;
 
 /**
- * @author langhsu
+ * @author cdq
  * 
  */
 public interface FollowDao extends BaseRepository<FollowPO> {

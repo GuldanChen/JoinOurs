@@ -23,7 +23,7 @@ import mblog.core.persist.service.AttachService;
 import mblog.core.persist.utils.BeanMapUtils;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Service

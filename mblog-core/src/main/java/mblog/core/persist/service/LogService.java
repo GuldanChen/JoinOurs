@@ -12,7 +12,7 @@ package mblog.core.persist.service;
 import java.util.Date;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 public interface LogService {

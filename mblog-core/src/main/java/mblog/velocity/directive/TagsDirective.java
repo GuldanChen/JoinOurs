@@ -15,7 +15,7 @@ import mblog.velocity.handler.RenderHandler;
 /**
  * 获取标签列表
  * 
- * @author langhsu
+ * @author cdq
  *
  */
 public class TagsDirective extends BaseDirective {

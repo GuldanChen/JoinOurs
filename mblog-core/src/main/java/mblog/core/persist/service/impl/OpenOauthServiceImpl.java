@@ -26,7 +26,7 @@ import mblog.core.persist.utils.BeanMapUtils;
 
 /**
  * 第三方登录授权管理
- * @author langhsu on 2015/8/12.
+ * @author cdq2016/8/12.
  */
 @Service
 public class OpenOauthServiceImpl implements OpenOauthService {

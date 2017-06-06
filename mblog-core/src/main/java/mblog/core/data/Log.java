@@ -15,7 +15,7 @@ import java.util.Date;
  * 
  * 事件日志
  * 
- * @author langhsu
+ * @author cdq
  *
  */
 public class Log {

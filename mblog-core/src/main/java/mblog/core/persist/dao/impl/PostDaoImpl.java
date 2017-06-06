@@ -44,7 +44,7 @@ import mtons.modules.persist.impl.BaseRepositoryImpl;
 import mtons.modules.pojos.Paging;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Repository(entity = PostPO.class)

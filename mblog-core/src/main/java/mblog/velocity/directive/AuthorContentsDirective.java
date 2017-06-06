@@ -19,7 +19,7 @@ import mtons.modules.pojos.Paging;
 /**
  * 根据作者取文章列表
  * 
- * @author langhsu
+ * @author cdq
  *
  */
 public class AuthorContentsDirective extends BaseDirective {

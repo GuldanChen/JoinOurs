@@ -22,7 +22,7 @@ import mblog.core.persist.utils.BeanMapUtils;
 import mtons.modules.pojos.Paging;
 
 /**
- * @author langhsu on 2015/8/31.
+ * @author cdq2016/8/31.
  */
 @Service
 public class FavorServiceImpl implements FavorService {

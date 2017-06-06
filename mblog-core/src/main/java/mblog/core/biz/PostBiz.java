@@ -21,7 +21,7 @@ import mblog.core.data.Post;
  *
  * - 如果不使用缓存, 则直接调用Service
  * 
- * @author langhsu
+ * @author cdq
  *
  */
 public interface PostBiz {

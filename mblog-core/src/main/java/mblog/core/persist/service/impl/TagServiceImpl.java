@@ -34,7 +34,7 @@ import mblog.core.persist.utils.BeanMapUtils;
 import mtons.modules.pojos.Paging;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Service

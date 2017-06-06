@@ -15,7 +15,7 @@ import mtons.modules.annotation.Repository;
 import mtons.modules.persist.impl.BaseRepositoryImpl;
 
 /**
- * @author langhsu on 2015/8/12.
+ * @author cdq2016/8/12.
  */
 @Repository(entity = OpenOauthPO.class)
 public class OpenOauthDaoImpl extends BaseRepositoryImpl<OpenOauthPO> implements OpenOauthDao {

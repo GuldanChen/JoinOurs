@@ -12,7 +12,7 @@ package mblog.core.data;
 import java.io.Serializable;
 
 /**
- * @author langhsu
+ * @author cdq
  * 
  */
 public class Attach implements Serializable {

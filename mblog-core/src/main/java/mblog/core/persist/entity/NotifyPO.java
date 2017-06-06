@@ -7,7 +7,7 @@ import javax.persistence.*;
 import java.util.Date;
 
 /**
- * @author langhsu on 2015/8/31.
+ * @author cdq2016/8/31.
  */
 @Entity
 @Table(name = "mto_notify")

@@ -13,7 +13,7 @@ import javax.persistence.*;
 import java.util.Date;
 
 /**
- * @author langhsu
+ * @author cdq
  *
  */
 @Entity

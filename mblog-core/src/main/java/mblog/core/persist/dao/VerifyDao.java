@@ -13,7 +13,7 @@ import mblog.core.persist.entity.VerifyPO;
 import mtons.modules.persist.BaseRepository;
 
 /**
- * @author langhsu on 2015/8/14.
+ * @author cdq2016/8/14.
  */
 public interface VerifyDao extends BaseRepository<VerifyPO> {
     VerifyPO get(long userId, int type);

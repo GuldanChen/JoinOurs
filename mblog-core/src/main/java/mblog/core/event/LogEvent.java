@@ -14,7 +14,7 @@ import org.springframework.context.ApplicationEvent;
 import mblog.base.lang.EnumLog;
 
 /**
- * @author langhsu
+ * @author cdq
  * 
  */
 public class LogEvent extends ApplicationEvent {

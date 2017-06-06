@@ -18,7 +18,7 @@ import mtons.modules.annotation.Repository;
 import mtons.modules.persist.impl.BaseRepositoryImpl;
 
 /**
- * @author langhsu on 2015/8/14.
+ * @author cdq2016/8/14.
  */
 @Repository(entity = VerifyPO.class)
 public class VerifyDaoImpl extends BaseRepositoryImpl<VerifyPO> implements VerifyDao  {
