@@ -50,13 +50,14 @@
 				<artifactId>jetty-maven-plugin</artifactId>
 				<version>${jetty.version}</version>
 				<configuration>
+					<webAppSourceDirectory>${basedir}/mblog-web/target/joinours</webAppSourceDirectory>
 					<connectors>
 						<connector implementation="org.eclipse.jetty.server.nio.SelectChannelConnector">
 							<port>${webserver.port}</port>
 						</connector>
 					</connectors>
 					<webAppConfig>
-						<contextPath>/${project.artifactId}</contextPath>
+						<contextPath>/</contextPath>
 					</webAppConfig>
 					<systemProperties>
 						<systemProperty>
@@ -64,6 +65,9 @@
 							<value>${project.build.sourceEncoding}</value>
 						</systemProperty>
 					</systemProperties>
+					<scanIntervalSeconds>1</scanIntervalSeconds>
+					<stopPort>8888</stopPort>
+					<stopKey>bar</stopKey>
 				</configuration>
 			</plugin>
 			<plugin>
